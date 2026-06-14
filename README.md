@@ -37,8 +37,8 @@ This project is automatically deployed to Vercel whenever changes are pushed to 
 
 This landing page serves two main audiences:
 
-- **Homeowners**: Can join the waitlist and book a demo
-- **Vendors & Local Businesses**: Can apply to join the Mercurius platform
+- **Homeowners**: Can join the waitlist 
+- **Vendors & Local Businesses**: Can apply to join the Mercurius platform and or book demo 
 
 ## Author
 
